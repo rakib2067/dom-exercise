@@ -1,0 +1,14 @@
+nav ul {
+  display: flex;
+  padding: 0;
+}
+li {
+  text-decoration: none;
+  list-style: none;
+  margin-right: 1rem;
+}
+
+.clicked {
+  font-size: 2rem;
+  font-weight: bold;
+}
